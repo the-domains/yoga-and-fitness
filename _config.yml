@@ -1,0 +1,28 @@
+name: Yoga and Fitness
+favicon: null
+layout_spectrum: 0.7181510285008699
+typography_spectrum: 0.10209471639245749
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7233963122125715
+  lightness: 0.7258378423284739
+  saturation: 0.9153197878040373
+  rhythmicContrast: 0.30607088399119675
+purpose: []
